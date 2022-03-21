@@ -7,6 +7,9 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "vue": "^3.2.25"
   },
